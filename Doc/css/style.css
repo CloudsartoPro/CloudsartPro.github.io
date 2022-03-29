@@ -23,21 +23,21 @@
     position: absolute;
     top: 48%;
     left: 20%;
-    opacity: 1;
+    opacity: 0.5;
 }
 
 .q2:hover {
     position: absolute;
     top: 48%;
     left: 46.5%;
-    opacity: 1;
+    opacity: 0.5;
 }
 
 .q3:hover {
     position: absolute;
     top: 48%;
     left: 74%;
-    opacity: 1;
+    opacity: 0.5;
 }
 
 
@@ -56,7 +56,7 @@
   .q1:hover::before {
     left: 50%;
     transform: translate(-50%, 0);
-    opacity: 0.5;
+    opacity: 1;
   }
 
   .q2::before {
@@ -74,7 +74,7 @@
   .q2:hover::before {
     left: 50%;
     transform: translate(-50%, 0);
-    opacity: 0.5;
+    opacity: 1;
   }
 
   .q3::before {
@@ -92,7 +92,7 @@
   .q3:hover::before {
     left: 50%;
     transform: translate(-50%, 0);
-    opacity: 0.5;
+    opacity: 1;
   }
 
   .team {
